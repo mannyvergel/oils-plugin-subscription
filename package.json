@@ -1,0 +1,23 @@
+{
+  "name": "oils-plugin-subscription",
+  "version": "3.0.0",
+  "description": "Subscription plugin for Oils JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannyvergel/oils-plugin-subscription.git"
+  },
+  "keywords": [
+    "subscription",
+    "oils"
+  ],
+  "author": "Manny Vergel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mannyvergel/oils-plugin-subscription/issues"
+  },
+  "homepage": "https://github.com/mannyvergel/oils-plugin-subscription#readme"
+}
